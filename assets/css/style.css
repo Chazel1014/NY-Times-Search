@@ -1,0 +1,33 @@
+
+.jumbotron {
+	background-color:rgb(36, 39, 80);
+	color: white;
+	
+}
+
+.logo {
+	float: left;
+    width: 88px;
+    position: relative;
+    top:9px;
+}
+
+.panel{
+	clear: both;
+}
+
+.panel-default>.panel-heading {
+    color: white;
+    background-color: #323561;
+    border-color: #fff;
+    }
+
+    label{
+    	margin-bottom: 14px;
+    	margin-top: 14px;
+    }
+
+    .btn-primary {
+    	margin-top:20px;
+    	    margin-right: 13px;
+    	}
